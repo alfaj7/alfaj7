@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfaj7" alt="alfaj7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mallick_al7" target="blank"><img src="https://img.shields.io/twitter/follow/@mallick_al7?logo=twitter&style=for-the-badge" alt="@mallick_al7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mallick_al7" target="blank"><img src="https://img.shields.io/twitter/follow/mallick_al7?logo=twitter&style=for-the-badge" alt="mallick_al7" /></a> </p>
 
 - 🔭 I’m currently working on **Invoice and Payment Tracker**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mallick_al7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mallick_al7" height="30" width="40" /></a>
+<a href="https://twitter.com/mallick_al7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mallick_al7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alfaj mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfaj mallick" height="30" width="40" /></a>
 </p>
 
